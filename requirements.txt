@@ -1,3 +1,6 @@
 fastapi
 uvicorn
 yt-dlp
+git add requirements.txt
+git commit -m "Add uvicorn to requirements"
+git push
